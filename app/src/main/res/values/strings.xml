@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALCChallengeOne</string>
+    <string name="track">Track:</string>
+    <string name="country">Country:</string>
+    <string name="email">Email:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="slack_username">Slack UserName:</string>
+    <string name="android">Android</string>
+    <string name="uganda">Uganda</string>
+    <string name="my_email">mhdsemps@gmail.com</string>
+    <string name="my_number">(+256)756369854</string>
+    <string name="my_slack_name">\@muhammadSsempala</string>
+</resources>
